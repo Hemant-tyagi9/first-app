@@ -8,7 +8,7 @@ CHATBASE_API_URL = "https://www.chatbase.co/api/v1/chat"
 
 # Page config
 st.set_page_config(
-    page_title="Chatbase AI Chatbot",
+    page_title="Optimus Chatbot",
     page_icon="🤖",
     layout="centered"
 )
