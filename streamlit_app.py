@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # Title and description
-st.title("Chatbase AI Chatbot")
+st.title("Optimus Chatbot")
 st.caption("Built with Streamlit | Integrated with Chatbase")
 
 # Sidebar with info
