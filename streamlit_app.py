@@ -8,13 +8,13 @@ CHATBASE_API_URL = "https://www.chatbase.co/api/v1/chat"
 
 # Page config
 st.set_page_config(
-    page_title="Optimus Chatbot",
+    page_title="Think Bot!",
     page_icon="🤖",
     layout="centered"
 )
 
 # Title and description
-st.title("Optimus Chatbot")
+st.title("Think! Chatbot")
 st.caption("Built with Streamlit | Integrated with Chatbase")
 
 # Sidebar with info
