@@ -22,6 +22,8 @@ st.caption("Built with Streamlit | Integrated with Chatbase")
 with st.sidebar:
     st.header("About")
     st.write("""
+    **Credit: Hemant Tyagi**
+    
     This project connects Streamlit to **Chatbase** using its REST API.
     
     **Tech Stack:**
